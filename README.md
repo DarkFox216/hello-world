@@ -1,8 +1,8 @@
 # hello-world
-My FIrst Repository - repo
+My First Repository - repo
 
 # This will make an H1 tagset
-## This will make an H2 tagset
+
 
 - item 1 in a list
 - item 2 in a list
